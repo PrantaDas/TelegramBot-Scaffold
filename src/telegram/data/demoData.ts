@@ -1,0 +1,1 @@
+//  if any static data needs ,it goes here
