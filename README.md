@@ -42,7 +42,7 @@ $ git clone https://github.com/PrantaDas/TelegramBot-Scaffold.git
 Go to the project directory
 
 ```shell
-$ cd telegram-sniper
+$ cd TelegramBot-Scaffold
 ```
 
 Install dependencies
